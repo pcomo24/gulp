@@ -1,3 +1,3 @@
-var name = 'Paul';
+var name = 'Paul Como';
 
-document.write('Hello ' + name + ' !');
+document.write('Hello ' + name + '!');
